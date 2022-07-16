@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cwbads22
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning git, python, js, AWS and SQL
+- 🌱 I’m currently learning Ruby and React
 - 💞️ I’m looking to collaborate on projects where I can learn something.
 - 📫 How to reach me cwb.ads22@gmail.com
 
