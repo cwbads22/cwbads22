@@ -29,4 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwbads22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+<div align="center">:anchor:&nbsp; Luciano &nbsp; &nbsp; :earth_americas: &nbsp;CWB  :brazil:</>
 
